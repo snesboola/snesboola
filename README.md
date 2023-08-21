@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/images/high/anime-banner-gif-file-258kb-34t6i28dfmg9ei5n.gif)]
+![MasterHead](https://gifdb.com/images/high/anime-banner-gif-file-258kb-34t6i28dfmg9ei5n.gif)
 <h1 align="center">Hello 👋, I'm Sneha :)</h1>
 <h3 align="center">I am a Final Year Computer Science Student from Nanyang Technological University! Being a primarily data-driven individual, I am currently enjoying exploring the avenue of Data Science and Machine Learning.</h3>
 
